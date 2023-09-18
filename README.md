@@ -18,4 +18,4 @@ We have included functions to:
 
 In addition to this, we have also saved all details of the customer to a csv file and made an analysis to get the age distribution of customers.
 
-Notes: The exchange rates used in this program was according to that of 18th September 2023, which is when this program was last modified.
+Note: The exchange rates used in this program was according to that of 18th September 2023, which is when this program was last modified.
